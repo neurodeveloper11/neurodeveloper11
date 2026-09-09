@@ -121,6 +121,31 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
       </ul>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 MindPulse: Behavioral Health Pipeline</h3>
+      <p align="center"><b>Longitudinal Telemetry & Clinical Decompensation Risk Engine</b></p>
+      <ul>
+        <li><b>Streaming Biomarker Ingestion:</b> Ingestion of PHQ-9, GAD-7, circadian sleep debt, and psychomotor latency streams.</li>
+        <li><b>Longitudinal Feature Store:</b> Vectorized 14-day sliding window features, OLS trend slopes, and psychomotor drift quantification.</li>
+        <li><b>Dual-Engine Anomaly Scoring:</b> Unsupervised Isolation Forest ensemble calibrated with clinical DSM-5 psychometric gates.</li>
+        <li><b>Modern Off-White UI:</b> 1-click cohort simulations (acute depression, burnout crisis, stable remission) and sub-50ms REST API.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/neurodeveloper11/behavioral-health-pipeline"><b>Explore Repository »</b></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📈 BTC Quant Lab (Case Study)</h3>
+      <p align="center"><b>Quantitative Financial Analytics & Walk-Forward ML Engine</b></p>
+      <ul>
+        <li><b>Automated Time-Series Ingestion:</b> Multi-timeframe OHLCV feeds with automated outlier rejection and volatility regimes.</li>
+        <li><b>Quantitative Feature Engineering:</b> Momentum, realized volatility, and cyclical Fourier transforms with NumPy/pandas.</li>
+        <li><b>Walk-Forward Cross-Validation:</b> Supervised ensemble models evaluated without lookahead bias for Sharpe & Drawdown attribution.</li>
+        <li><b>Sub-120ms Inference API:</b> High-performance FastAPI prediction server with interactive Swagger documentation.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 ---
