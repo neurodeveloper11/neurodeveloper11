@@ -136,6 +136,21 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
       </p>
     </td>
     <td width="50%" valign="top">
+      <h3 align="center">⚖️ FairTalent-Engine</h3>
+      <p align="center"><b>Algorithmic Bias Auditing & Psychometric Validity Platform</b></p>
+      <ul>
+        <li><b>EEOC 4/5ths Rule & NYC LL144:</b> Real-time Disparate Impact Ratio (DIR) auditing across protected demographic categories.</li>
+        <li><b>Classical Test Theory (CTT):</b> Vectorized Cronbach's Alpha (&alpha;) and item-total discrimination construct validation.</li>
+        <li><b>Automated Fair-ML Mitigation:</b> Post-processing Pareto threshold tuning resolving adverse impact with &gt;95% merit retention.</li>
+        <li><b>Executive Compliance Suite:</b> Interactive educational UI, live cohort simulation, and certified audit trail export.</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/neurodeveloper11/fairtalent-engine"><b>Explore Repository »</b></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
       <h3 align="center">📈 BTC Quant Lab (Case Study)</h3>
       <p align="center"><b>Quantitative Financial Analytics & Walk-Forward ML Engine</b></p>
       <ul>
@@ -144,6 +159,19 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
         <li><b>Walk-Forward Cross-Validation:</b> Supervised ensemble models evaluated without lookahead bias for Sharpe & Drawdown attribution.</li>
         <li><b>Sub-120ms Inference API:</b> High-performance FastAPI prediction server with interactive Swagger documentation.</li>
       </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">⚡ DopamineScan</h3>
+      <p align="center"><b>Neurocognitive Sensory UX & Psychomotor Telemetry Platform</b></p>
+      <ul>
+        <li><b>Sub-16ms Tactile Response:</b> Zero-dependency pure JavaScript client for PVT reflexes and Go/No-Go inhibitory control.</li>
+        <li><b>Web Audio Synthesizer:</b> Procedural audio synthesis without external sound files.</li>
+        <li><b>Canvas 9:16 Story Generator:</b> Dynamic 1080&times;1920 px viral story cards with native Web Share API.</li>
+        <li><b>FastAPI Scoring Backend:</b> Containerized REST microservice validating Signal Detection Theory ($d'$).</li>
+      </ul>
+      <p align="center">
+        <a href="https://neurodeveloper11.github.io/dopaminescan/"><b>Try Live Web App »</b></a>
+      </p>
     </td>
   </tr>
 </table>
