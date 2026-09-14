@@ -5,7 +5,8 @@
 **M.Sc. in Data Engineering & Cloud Infrastructure • 10+ Years Behavioral & Cognitive Science Leadership**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-torres-39364b258)
-[![Google Play](https://img.shields.io/badge/Google_Play-NeuroGym_Live-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps)
+[![Hugging Face](https://img.shields.io/badge/Hugging_Face-%40neurodeveloper-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/neurodeveloper)
+[![Google Play](https://img.shields.io/badge/Google_Play-NeuroGym_Live-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)
 [![Email](https://img.shields.io/badge/Email-psicologofabiotorres%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psicologofabiotorres@gmail.com)
 [![Location](https://img.shields.io/badge/Location-Cali_%2F_Buenaventura%2C_Colombia-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
@@ -22,7 +23,7 @@
 
 I architect high-throughput data pipelines, resilient distributed backends, and offline-first mobile systems. My profile pairs a rigorous graduate education in **Data Engineering & Cloud Infrastructure (M.Sc.)** with over **a decade of professional experience in Organizational & Cognitive Psychology**.
 
-- 🚀 **Production-Proven:** Creator of **[NeuroGym](https://play.google.com/store/apps)**, published on **Google Play Store**, featuring 37+ cognitive minigames, hybrid edge/cloud LLM routing, and real-time behavioral telemetry.
+- 🚀 **Production-Proven:** Creator of **[NeuroGym](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)**, published on **Google Play Store**, featuring 37+ cognitive minigames, hybrid edge/cloud LLM routing, and real-time behavioral telemetry.
 - 🛠️ **Engineering Rigor:** Creator of **SmartGym** (~19,600 lines of TypeScript, Clean Architecture, 46 unit tests in Jest) and quantitative prediction platforms (**BTC Quant Lab**, sub-120ms FastAPI inference).
 - 🧠 **Defensive Domain Moat:** Deep expertise in psychometrics, behavioral telemetry, cognitive ergonomics, and AI alignment / bias auditing.
 - 🏆 **High-Stakes Strategic Mindset:** National Chess Champion & Master, leading complex strategic thinking and high-pressure operational environments.
@@ -79,7 +80,7 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
         <li><b>Dynamic Difficulty Adjustment (DDA):</b> Response-time ($RT$) algorithms driving a 35% increase in 30-day retention.</li>
       </ul>
       <p align="center">
-        <a href="https://play.google.com/store/apps"><b>View on Google Play Store »</b></a>
+        <a href="https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419"><b>View on Google Play Store »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -107,7 +108,7 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
         <li><b>Automated Mitigation:</b> Synthesizes real-time correction directives for AI alignment (RLHF benchmark ready).</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/neurodeveloper11/cognitive-agent-evaluator"><b>Explore Repository »</b></a>
+        <a href="https://github.com/neurodeveloper11/cognitive-agent-evaluator"><b>Explore Repository »</b></a> • <a href="https://huggingface.co/spaces/neurodeveloper/cognitive-agent-evaluator"><b>Live on Hugging Face 🤗 »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
@@ -230,6 +231,7 @@ Most data engineers know how to aggregate telemetry; **I know what human cogniti
 ## 📬 Let's Connect
 
 - 💼 **LinkedIn:** [linkedin.com/in/fabio-torres-39364b258](https://www.linkedin.com/in/fabio-torres-39364b258)
+- 🤗 **Hugging Face:** [huggingface.co/neurodeveloper](https://huggingface.co/neurodeveloper)
 - 📧 **Direct Email:** [psicologofabiotorres@gmail.com](mailto:psicologofabiotorres@gmail.com)
 - 📱 **WhatsApp / Signal:** +57 321 628 4300
 - 📍 **Status:** Open to Global Remote Opportunities ($3,000 – $10,000+ USD) | B2/C1 English
