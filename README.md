@@ -71,6 +71,7 @@ I build data pipelines, Python/FastAPI backends, machine-learning models and off
 
 | Project | What it does | Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **[Alómetro](https://github.com/neurodeveloper11/alometro)** | Objective, auditable quality evaluation of call centers and chatbots in Colombian Spanish: resolution, customer effort, bot-to-human handoff, frustration trajectory and compliance (Law 2300, CRC). 40 criteria, 16 KPIs with confidence intervals and before/after significance tests. | Python, Pyodide/WebAssembly, PyTest, GitHub Actions | [Demo](https://neurodeveloper11.github.io/alometro/) |
 | **[DataShield (pii-shield-es)](https://github.com/neurodeveloper11/pii-shield-es)** | Detects and anonymizes Colombian/LatAm personal data (cédula, NIT, phones, emails, addresses…) in text, Word, Excel and CSV. 100% offline. | Python, Pyodide/WebAssembly, PyTest, GitHub Actions | [Demo](https://neurodeveloper11.github.io/pii-shield-es/) |
 | **[Modern Data Pipeline](https://github.com/neurodeveloper11/modern-data-pipeline)** | Event ingestion into partitioned Parquet, Polars transformations and analytical SQL with DuckDB behind a FastAPI API. | DuckDB, Polars, FastAPI, Docker | — |
 | **[MindPulse · Behavioral Health Pipeline](https://github.com/neurodeveloper11/behavioral-health-pipeline)** | Longitudinal behavioral telemetry (synthetic data): 14-day sliding-window features and Isolation Forest risk scoring with DSM-5-informed rules. | FastAPI, Pydantic v2, scikit-learn, Docker | — |
