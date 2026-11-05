@@ -27,7 +27,7 @@ I build data pipelines, Python/FastAPI backends, machine-learning models and off
 - 📱 **Shipped products:** creator of **[NeuroGym](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)** (Google Play, 51+ cognitive games) and **[Psicología Efectiva](https://psicologiaefectiva.web.app/)**, a psychometric SaaS with 20+ standardized tests.
 - 🛠️ **Engineering practice:** **SmartGym** (~19,600 lines of TypeScript, 46 Jest tests) and **BTC Quant Lab** (walk-forward ML, FastAPI inference under 120 ms). See the case studies in my portfolio.
 - 🧠 **Behavioral science:** psychometrics, construct validity, reaction-time telemetry and algorithmic fairness.
-- ♟️ **Strategy:** Colombian U-16 National Chess Champion (2009), chess coach and university lecturer.
+- ♟️ **Strategy:** Colombian U-16 National Chess Champion (2009), chess coach certified by the Colombian Chess Federation (FECODAZ), and university lecturer.
 
 ---
 
