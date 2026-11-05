@@ -1,72 +1,87 @@
 <div align="center">
 
 # Hi there, I'm Fabio Torres 👋
-### **Data Engineer | Full-Stack & AI Systems Engineer | Behavioral Specialist**
-**M.Sc. in Data Engineering & Cloud Infrastructure • 10+ Years Behavioral & Cognitive Science Leadership**
+### **Data & AI Engineer · Python · FastAPI · SQL · Machine Learning**
+**Psychologist with 10+ years in psychometrics and behavioral data • M.Sc. in Data Engineering & Cloud Infrastructure (in progress)**
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-neurodeveloper11.github.io-2563eb?style=for-the-badge&logo=githubpages&logoColor=white)](https://neurodeveloper11.github.io/portfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Fabio_Torres-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fabio-torres-39364b258)
 [![Hugging Face](https://img.shields.io/badge/Hugging_Face-%40neurodeveloper-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/neurodeveloper)
-[![Google Play](https://img.shields.io/badge/Google_Play-NeuroGym_Live-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)
+[![Google Play](https://img.shields.io/badge/Google_Play-NeuroGym-414141?style=for-the-badge&logo=googleplay&logoColor=34A853)](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)
 [![Email](https://img.shields.io/badge/Email-psicologofabiotorres%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:psicologofabiotorres@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Cali_%2F_Buenaventura%2C_Colombia-22c55e?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
 <br/>
 
-> **"Bridging Human Cognitive Dynamics with High-Performance Scalable Data & AI Systems."**  
-> *Available for High-Impact Remote Roles ($3,000 – $10,000+ USD) across US, Europe & LATAM.*
+> **Del Diván al Dato:** I build data pipelines, APIs and ML systems, and I bring the behavioral-science lens that helps them measure people fairly and accurately.
+>
+> 📍 Cali / Buenaventura, Colombia · Open to remote and hybrid roles (US, Europe, LATAM)
 
 </div>
 
 ---
 
-## ⚡ Professional Overview & Core Value
+## ⚡ About me
 
-I architect high-throughput data pipelines, resilient distributed backends, and offline-first mobile systems. My profile pairs a rigorous graduate education in **Data Engineering & Cloud Infrastructure (M.Sc.)** with over **a decade of professional experience in Organizational & Cognitive Psychology**.
+I build data pipelines, Python/FastAPI backends, machine-learning models and offline-first mobile apps. Before moving into engineering I spent **10+ years as an organizational and clinical psychologist** running psychometric and psychosocial-risk assessments, which is the domain knowledge I now apply to product telemetry, user retention and bias auditing.
 
-- 🚀 **Production-Proven:** Creator of **[NeuroGym](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)**, published on **Google Play Store**, featuring 37+ cognitive minigames, hybrid edge/cloud LLM routing, and real-time behavioral telemetry.
-- 🛠️ **Engineering Rigor:** Creator of **SmartGym** (~19,600 lines of TypeScript, Clean Architecture, 46 unit tests in Jest) and quantitative prediction platforms (**BTC Quant Lab**, sub-120ms FastAPI inference).
-- 🧠 **Defensive Domain Moat:** Deep expertise in psychometrics, behavioral telemetry, cognitive ergonomics, and AI alignment / bias auditing.
-- 🏆 **High-Stakes Strategic Mindset:** National Chess Champion & Master, leading complex strategic thinking and high-pressure operational environments.
+- 📱 **Shipped products:** creator of **[NeuroGym](https://play.google.com/store/apps/details?id=com.t11.neurochess&hl=es_419)** (Google Play, 51+ cognitive games) and **[Psicología Efectiva](https://psicologiaefectiva.web.app/)**, a psychometric SaaS with 20+ standardized tests.
+- 🛠️ **Engineering practice:** **SmartGym** (~19,600 lines of TypeScript, 46 Jest tests) and **BTC Quant Lab** (walk-forward ML, FastAPI inference under 120 ms). See the case studies in my portfolio.
+- 🧠 **Behavioral science:** psychometrics, construct validity, reaction-time telemetry and algorithmic fairness.
+- ♟️ **Strategy:** Colombian U-16 National Chess Champion (2009), chess coach certified by the Colombian Chess Federation (FECODAZ), and university lecturer.
 
 ---
 
-## 🛠️ Technical Stack & Tooling
+## 🛠️ Tech stack
 
 <div align="center">
 
 ### Data Engineering & Analytics
 ![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL_Advanced-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
 ![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat-square&logo=polars&logoColor=white)
-![Apache Arrow](https://img.shields.io/badge/Apache_Arrow-E47911?style=flat-square&logo=apache&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
-### Backend, Cloud & AI Systems
+### Backend, Cloud & AI
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain_%2F_LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![Pydantic v2](https://img.shields.io/badge/Pydantic_v2-E92063?style=flat-square&logo=pydantic&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PyTest](https://img.shields.io/badge/PyTest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Google Cloud](https://img.shields.io/badge/GCP_Fundamentals-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![PyTest](https://img.shields.io/badge/PyTest_CI%2FCD-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 
-### Mobile & Full-Stack Development
+### Mobile & Web
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo SDK](https://img.shields.io/badge/Expo_SDK_57-000020?style=flat-square&logo=expo&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React.js](https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black)
-![SQLite](https://img.shields.io/badge/SQLite_Offline--First-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest_Testing-C21325?style=flat-square&logo=jest&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 </div>
 
 ---
 
-## 🌟 Featured Engineering Showcase
+## 🔓 Open-source projects (code on GitHub)
+
+| Project | What it does | Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **[DataShield (pii-shield-es)](https://github.com/neurodeveloper11/pii-shield-es)** | Detects and anonymizes Colombian/LatAm personal data (cédula, NIT, phones, emails, addresses…) in text, Word, Excel and CSV. 100% offline. | Python, Pyodide/WebAssembly, PyTest, GitHub Actions | [Demo](https://neurodeveloper11.github.io/pii-shield-es/) |
+| **[Modern Data Pipeline](https://github.com/neurodeveloper11/modern-data-pipeline)** | Event ingestion into partitioned Parquet, Polars transformations and analytical SQL with DuckDB behind a FastAPI API. | DuckDB, Polars, FastAPI, Docker | — |
+| **[MindPulse · Behavioral Health Pipeline](https://github.com/neurodeveloper11/behavioral-health-pipeline)** | Longitudinal behavioral telemetry (synthetic data): 14-day sliding-window features and Isolation Forest risk scoring with DSM-5-informed rules. | FastAPI, Pydantic v2, scikit-learn, Docker | — |
+| **[DopamineScan](https://github.com/neurodeveloper11/dopaminescan)** | 60-second attention assessment: PVT, Go/No-Go (d′) and working memory. | JavaScript, Web Audio, FastAPI | [Demo](https://neurodeveloper11.github.io/dopaminescan/) |
+| **[Cognitive Agent Evaluator](https://github.com/neurodeveloper11/cognitive-agent-evaluator)** | Rule-based detection of cognitive biases (confirmation, anchoring, framing…) in human or LLM reasoning. | Python, FastAPI, Gradio | [Demo](https://huggingface.co/spaces/neurodeveloper/cognitive-agent-evaluator) |
+| **[FairTalent Engine](https://github.com/neurodeveloper11/fairtalent-engine)** | Four-Fifths Rule audits and threshold mitigation for hiring models (synthetic data). | Python, Polars, SciPy, FastAPI | — |
+| **[Centinela Sísmico](https://github.com/neurodeveloper11/centinela-sismico)** | Earthquake preparedness with USGS real-time data and Psychological First Aid guidance; offline PWA. | Python, PWA, PyTest | [Demo](https://neurodeveloper11.github.io/centinela-sismico/) |
+
+---
+
+## 🔒 Products (private code)
 
 <table>
   <tr>
@@ -74,7 +89,7 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
       <h3 align="center">📱 NeuroGym (Google Play Live)</h3>
       <p align="center"><b>Production Cognitive Training Platform & Hybrid AI Engine</b></p>
       <ul>
-        <li><b>37+ Modular Minigames:</b> Designed to evaluate working memory, executive function, and motor response times.</li>
+        <li><b>51+ Modular Minigames:</b> Designed to evaluate working memory, executive function, and motor response times.</li>
         <li><b>Hybrid AI Assistant:</b> Intelligent edge routing between on-device models for zero-latency offline use and cloud LLMs for deep analytics.</li>
         <li><b>Offline-First Telemetry:</b> Local SQLite event logging with asynchronous Firebase sync (99.8% session uptime).</li>
         <li><b>Dynamic Difficulty Adjustment (DDA):</b> Response-time ($RT$) algorithms driving a 35% increase in 30-day retention.</li>
@@ -84,94 +99,42 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚀 Modern Data Pipeline</h3>
-      <p align="center"><b>High-Throughput Analytics with DuckDB, Polars & FastAPI</b></p>
+      <h3 align="center">🧪 Psicología Efectiva</h3>
+      <p align="center"><b>Psychometric SaaS in production</b></p>
       <ul>
-        <li><b>Vectorized Ingestion:</b> Synthesizes high-velocity event streams into partitioned Parquet Lakehouse storage.</li>
-        <li><b>Sub-50ms OLAP Analytics:</b> In-memory transformations with Polars LazyFrames and analytical SQL queries with DuckDB.</li>
-        <li><b>Production Async API:</b> High-performance FastAPI endpoints with OpenAPI/Swagger and Pydantic v2 validation.</li>
-        <li><b>Containerized & Tested:</b> Multi-stage Docker build, Docker Compose, and automated PyTest CI/CD suite.</li>
+        <li><b>20+ standardized tests</b> (Stroop, TMT, Go/No-Go, Digit Span, ICAR, Wonderlic) scored in real time in the browser.</li>
+        <li><b>Multi-tenant isolation</b> of clinical records with Firestore Security Rules.</li>
+        <li><b>Automated PDF reports</b> for clinical and corporate assessments.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/neurodeveloper11/modern-data-pipeline"><b>Explore Repository »</b></a>
+        <a href="https://psicologiaefectiva.web.app/"><b>Open the platform »</b></a>
       </p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🤖 Cognitive Agent Evaluator</h3>
-      <p align="center"><b>Autonomous Behavioral Telemetry & Bias Detection Engine</b></p>
+      <h3 align="center">💪 SmartGym</h3>
+      <p align="center"><b>Offline-first strength training app</b></p>
       <ul>
-        <li><b>State Graph Architecture:</b> Modular evaluation pipeline built with state machines and asynchronous workflows.</li>
-        <li><b>Cognitive Bias Detection:</b> Quantifies Confirmation Bias, Anchoring, Availability Heuristic, and Framing in LLM outputs.</li>
-        <li><b>Psychometric Telemetry:</b> Scores cognitive load, emotional valence, and alignment confidence vectors.</li>
-        <li><b>Automated Mitigation:</b> Synthesizes real-time correction directives for AI alignment (RLHF benchmark ready).</li>
+        <li><b>~19,600 lines of TypeScript</b> in 65 files, Clean Architecture (logic / services / context).</li>
+        <li><b>46 Jest unit tests</b> for 1RM estimation, weekly volume and 12-week periodization.</li>
+        <li><b>Native features:</b> biometrics, calendar sync, TTS coaching, local notifications.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/neurodeveloper11/cognitive-agent-evaluator"><b>Explore Repository »</b></a> • <a href="https://huggingface.co/spaces/neurodeveloper/cognitive-agent-evaluator"><b>Live on Hugging Face 🤗 »</b></a>
+        <a href="https://neurodeveloper11.github.io/portfolio/casos/smartgym.html"><b>Read the case study »</b></a>
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">💪 SmartGym Engine</h3>
-      <p align="center"><b>100% Offline-First Strength Training & Periodization Engine</b></p>
+      <h3 align="center">📈 BTC Quant Lab</h3>
+      <p align="center"><b>Time-series ML lab for digital assets</b></p>
       <ul>
-        <li><b>Senior Clean Architecture:</b> ~19,600 lines of strict TypeScript isolating domain math from UI state.</li>
-        <li><b>Rigorous Unit Testing:</b> 46 Jest tests validating 1RM estimates, weekly volume calculations, and deload cycles.</li>
-        <li><b>Native Hardware Integration:</b> Biometric authentication, audio TTS coaching, and local push notifications.</li>
-        <li><b>Zero-Dependency Reliability:</b> Uncompromised functionality without server connectivity.</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">🧠 MindPulse: Behavioral Health Pipeline</h3>
-      <p align="center"><b>Longitudinal Telemetry & Clinical Decompensation Risk Engine</b></p>
-      <ul>
-        <li><b>Streaming Biomarker Ingestion:</b> Ingestion of PHQ-9, GAD-7, circadian sleep debt, and psychomotor latency streams.</li>
-        <li><b>Longitudinal Feature Store:</b> Vectorized 14-day sliding window features, OLS trend slopes, and psychomotor drift quantification.</li>
-        <li><b>Dual-Engine Anomaly Scoring:</b> Unsupervised Isolation Forest ensemble calibrated with clinical DSM-5 psychometric gates.</li>
-        <li><b>Modern Off-White UI:</b> 1-click cohort simulations (acute depression, burnout crisis, stable remission) and sub-50ms REST API.</li>
+        <li><b>Data ingestion:</b> multi-timeframe OHLCV with cleaning and outlier rejection.</li>
+        <li><b>25+ features</b> (RSI, MACD, Bollinger, realized volatility, Fourier components).</li>
+        <li><b>Walk-forward validation</b> of Random Forest / Gradient Boosting models, evaluated on Sharpe and drawdown.</li>
+        <li><b>FastAPI inference</b> under 120 ms with Pydantic and Swagger.</li>
       </ul>
       <p align="center">
-        <a href="https://github.com/neurodeveloper11/behavioral-health-pipeline"><b>Explore Repository »</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚖️ FairTalent-Engine</h3>
-      <p align="center"><b>Algorithmic Bias Auditing & Psychometric Validity Platform</b></p>
-      <ul>
-        <li><b>EEOC 4/5ths Rule & NYC LL144:</b> Real-time Disparate Impact Ratio (DIR) auditing across protected demographic categories.</li>
-        <li><b>Classical Test Theory (CTT):</b> Vectorized Cronbach's Alpha (&alpha;) and item-total discrimination construct validation.</li>
-        <li><b>Automated Fair-ML Mitigation:</b> Post-processing Pareto threshold tuning resolving adverse impact with &gt;95% merit retention.</li>
-        <li><b>Executive Compliance Suite:</b> Interactive educational UI, live cohort simulation, and certified audit trail export.</li>
-      </ul>
-      <p align="center">
-        <a href="https://github.com/neurodeveloper11/fairtalent-engine"><b>Explore Repository »</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">📈 BTC Quant Lab (Case Study)</h3>
-      <p align="center"><b>Quantitative Financial Analytics & Walk-Forward ML Engine</b></p>
-      <ul>
-        <li><b>Automated Time-Series Ingestion:</b> Multi-timeframe OHLCV feeds with automated outlier rejection and volatility regimes.</li>
-        <li><b>Quantitative Feature Engineering:</b> Momentum, realized volatility, and cyclical Fourier transforms with NumPy/pandas.</li>
-        <li><b>Walk-Forward Cross-Validation:</b> Supervised ensemble models evaluated without lookahead bias for Sharpe & Drawdown attribution.</li>
-        <li><b>Sub-120ms Inference API:</b> High-performance FastAPI prediction server with interactive Swagger documentation.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">⚡ DopamineScan</h3>
-      <p align="center"><b>Neurocognitive Sensory UX & Psychomotor Telemetry Platform</b></p>
-      <ul>
-        <li><b>Sub-16ms Tactile Response:</b> Zero-dependency pure JavaScript client for PVT reflexes and Go/No-Go inhibitory control.</li>
-        <li><b>Web Audio Synthesizer:</b> Procedural audio synthesis without external sound files.</li>
-        <li><b>Canvas 9:16 Story Generator:</b> Dynamic 1080&times;1920 px viral story cards with native Web Share API.</li>
-        <li><b>FastAPI Scoring Backend:</b> Containerized REST microservice validating Signal Detection Theory ($d'$).</li>
-      </ul>
-      <p align="center">
-        <a href="https://neurodeveloper11.github.io/dopaminescan/"><b>Try Live Web App »</b></a>
+        <a href="https://neurodeveloper11.github.io/portfolio/casos/btc-quant-lab.html"><b>Read the case study »</b></a>
       </p>
     </td>
   </tr>
@@ -179,41 +142,7 @@ I architect high-throughput data pipelines, resilient distributed backends, and 
 
 ---
 
-## 🧠 The Domain Moat: Cognitive Science Meets Data Engineering
-
-```mermaid
-graph LR
-    subgraph DataEngineering ["Data & AI Engineering"]
-        D1["M.Sc. Data Engineering"]
-        D2["Distributed Pipelines & DuckDB/Polars"]
-        D3["Modern Cloud & FastAPIs"]
-    end
-
-    subgraph BehavioralDomain ["Cognitive & Behavioral Science"]
-        B1["10+ Years Behavioral Psychology"]
-        B2["Psychometric Modeling & Validation"]
-        B3["Human Decision-Making & Bias Auditing"]
-    end
-
-    subgraph HybridMoat ["The Strategic Competitive Moat"]
-        H1["AI Alignment & RLHF Safety Evaluation"]
-        H2["Behavioral Telemetry & Retention Optimization"]
-        H3["High-Stakes Strategic Resilience (Chess Master)"]
-    end
-
-    DataEngineering --> HybridMoat
-    BehavioralDomain --> HybridMoat
-    
-    style HybridMoat fill:#1e293b,stroke:#38bdf8,stroke-width:2px,color:#f8fafc
-    style DataEngineering fill:#0f172a,stroke:#818cf8,stroke-width:1px,color:#f8fafc
-    style BehavioralDomain fill:#0f172a,stroke:#34d399,stroke-width:1px,color:#f8fafc
-```
-
-Most data engineers know how to aggregate telemetry; **I know what human cognitive mechanisms drive the telemetry**. This cross-disciplinary capability enables me to design superior data models for user engagement, detect subtle edge-case cognitive fallacies in AI systems, and translate complex analytical insights into human-centric organizational decisions.
-
----
-
-## 📊 GitHub Analytics & Activity
+## 📊 GitHub activity
 
 <div align="center">
 
@@ -228,14 +157,10 @@ Most data engineers know how to aggregate telemetry; **I know what human cogniti
 
 ---
 
-## 📬 Let's Connect
+## 📬 Contact
 
+- 🌐 **Portfolio:** [neurodeveloper11.github.io/portfolio](https://neurodeveloper11.github.io/portfolio/)
 - 💼 **LinkedIn:** [linkedin.com/in/fabio-torres-39364b258](https://www.linkedin.com/in/fabio-torres-39364b258)
-- 🤗 **Hugging Face:** [huggingface.co/neurodeveloper](https://huggingface.co/neurodeveloper)
-- 📧 **Direct Email:** [psicologofabiotorres@gmail.com](mailto:psicologofabiotorres@gmail.com)
-- 📱 **WhatsApp / Signal:** +57 321 628 4300
-- 📍 **Status:** Open to Global Remote Opportunities ($3,000 – $10,000+ USD) | B2/C1 English
-
-<div align="center">
-  <sub>Built with precision by <b>Fabio Torres</b> • Data & AI Systems Engineer</sub>
-</div>
+- 📧 **Email:** [psicologofabiotorres@gmail.com](mailto:psicologofabiotorres@gmail.com)
+- 📱 **WhatsApp:** +57 321 628 4300
+- 🗣️ **Languages:** Spanish (native), English (B2/C1)
